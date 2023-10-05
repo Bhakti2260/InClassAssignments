@@ -1,0 +1,81 @@
+/*Bhakti Patel 8912260*/
+body{
+    font: normal normal normal 12px/1.5 Arial;
+    height: 100vh;
+    width: 100vw;
+    background-color: hsla(200,45%,81%,0.7);
+   
+}
+header{
+    background-color: rgb(16, 146, 233);
+}
+h2
+{
+    font-size:2rem;
+    color:rgb(233,10,10);
+}
+main{
+    background-color: hsla(64,84%,46%,0.7);
+    float:left;
+    width: 65vw;
+    height:60vh;
+}
+aside{
+    background-color: rgb(108, 190, 36);
+    float: right;
+    width:25vw;
+    height:60vh;
+}
+footer{
+    clear: both;
+    background-color: rgb(12, 181, 43);
+}
+.structural{
+    margin:10px;
+    padding:10px;
+    border:2px solid black;
+}
+
+#para1{
+    color : orange;
+}
+
+a[title]{
+    color : red;
+}
+a:hover{
+    color : green;
+}
+h1, a[title], #para3, .blue{
+    color : indigo;
+}
+main h2  p{
+    color : green;
+}
+/*
+#para1{
+    color: #ff0000;
+}
+#para2{
+    color: #2b00ff80;
+}
+#para3{
+    color: rgb(255, 222, 0);
+}
+#para4{
+    color:rgba(14, 89, 119, 0.3);
+  
+}
+#para5{
+    color:hsl(284, 61%, 23%);
+}
+#para6{
+    color: hsla(195, 72%, 23%, 0.3);
+}
+#para7{
+    color : greenyellow;
+}
+#para8{
+    color: #b58;
+}
+*/
